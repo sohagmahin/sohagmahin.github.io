@@ -1,36 +1,25 @@
 ---
 layout: ../layouts/AboutLayout.astro
 title: "About"
----
+---  
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hi, I’m **Sohag**, a passionate **Frontend Engineer** with expertise in **React, Next.js, Flutter, and NestJS**. I thrive on building **seamless, high-performance web and mobile applications**, ensuring both functionality and aesthetics go hand in hand.  
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+With over **three years of experience**, I’ve worked on multiple projects, including **map-based applications**, **real-time data visualization**, and **custom UI/UX solutions**. My work spans from optimizing **interactive maps** in Flutter to designing **intuitive dashboards** in Next.js and integrating complex **notification and alerting systems**.  
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+### 💻 Tech Stack  
+- 🚀 **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Zustand, Redux  
+- 📱 **Mobile:** Flutter, Dart  
+- ⚙️ **Backend:** NestJS, Node.js  
+- 📊 **Database & APIs:** PostgreSQL, Firebase, REST, GraphQL  
+- 🗺 **Mapping:** Google Maps, OpenLayers, MapTiler  
+- 🛠 **Tools & DevOps:** Git, GitHub Actions, Vercel, Docker  
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+Currently, I’m focused on **enhancing user experiences, improving app performance, and staying up-to-date with the latest frontend technologies**. When I’m not coding, you’ll probably find me exploring new tech, refining my skills, or writing about my experiences on my blog.  
 
-## Tech Stack
+### 📫 Connect with Me  
+- 📩 **Email:** [sohagmahin@gmail.com]  
+- 🔗 **LinkedIn:** [linkedin.com/in/sohagmahin](https://linkedin.com/in/sohagmahin)  
+- 💻 **GitHub:** [github.com/sohagmahin](https://github.com/sohagmahin)  
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Let’s connect and build something amazing together! 🚀  
