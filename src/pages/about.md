@@ -19,7 +19,7 @@ Currently, I’m focused on **enhancing user experiences, improving app performa
 
 ### 📫 Connect with Me
 
-- 📩 **Email:** [sohagmahin@gmail.com]
+- 📩 **Email:** [sohagcoder@gmail.com]
 - 🔗 **LinkedIn:** [linkedin.com/in/sohagmahin](https://linkedin.com/in/sohagmahin)
 - 💻 **GitHub:** [github.com/sohagmahin](https://github.com/sohagmahin)
 
